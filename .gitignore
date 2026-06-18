@@ -1,0 +1,18 @@
+# Compiled Binaries (Derlenmiş Çalıştırılabilir Dosyalar)
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# IDE and Compiler Configurations (Editör ve IDE Ayarları)
+.vscode/
+.idea/
+*.suo
+*.user
+*.workspace
+
+# OS Generated Files (İşletim Sistemi Kalıntıları)
+.DS_Store
+Thumbs.db
+desktop.ini
